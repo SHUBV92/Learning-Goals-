@@ -33,15 +33,15 @@ I can learn anything by myself
 
 # Projects 
 
-Battle
+ [Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web)
 
-Takeaway
+ [Takeaway](https://github.com/makersacademy/takeaway-challenge)
 
-Oystercard 
+ [Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
 
-Airport
+ [Airport](https://github.com/makersacademy/airport_challenge)
 
-Boris Bikes 
+ [Boris Bikes](https://github.com/makersacademy/course/blob/master/boris_bikes/0_challenge_map.md)
 
 
 # Processes 
