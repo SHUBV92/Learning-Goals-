@@ -62,9 +62,9 @@ Class extraction
 
 # Weekly goals 
 
-Week 3
+[Week 3](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 
-Week 2 
+[Week 2](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 
 [Week 1](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 
