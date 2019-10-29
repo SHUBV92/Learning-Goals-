@@ -66,4 +66,5 @@ Week 3
 
 Week 2 
 
-Week 1 
+[Week 1](https://github.com/makersacademy/course/blob/master/week_outlines.md)
+
